@@ -1,0 +1,407 @@
+{
+    "items": [
+      {
+        "sys": { "id": "1" },
+        "fields": {
+          "title": "Galaxy S10 5G",
+          "price": 910.99,
+          "image": { "fields": { "file": { "url": "./images/product-1.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "2" },
+        "fields": {
+          "title": "Galaxy S10+",
+          "price": 812.99,
+          "image": { "fields": { "file": { "url": "./images/product-2.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "3" },
+        "fields": {
+          "title": "Galaxy S10",
+          "price": 712.99,
+          "image": { "fields": { "file": { "url": "./images/product-3.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "4" },
+        "fields": {
+          "title": "Galaxy S10e",
+          "price": 622.99,
+          "image": { "fields": { "file": { "url": "./images/product-4.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "5" },
+        "fields": {
+          "title": "Galaxy A2 Core",
+          "price": 688.99,
+          "image": { "fields": { "file": { "url": "./images/product-5.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "6" },
+        "fields": {
+          "title": "Galaxy M30",
+          "price": 532.99,
+          "image": { "fields": { "file": { "url": "./images/product-6.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "7" },
+        "fields": {
+          "title": "Galaxy M20",
+          "price": 545.99,
+          "image": { "fields": { "file": { "url": "./images/product-7.jpeg" } } }
+        }
+      },
+      {
+        "sys": { "id": "8" },
+        "fields": {
+          "title": "Galaxy M10",
+          "price": 440.99,
+          "image": { "fields": { "file": { "url": "./images/product-8.jpeg" } } }
+        }
+      },
+      {
+        "sys": {
+          "id": "9"
+        },
+        "fields": {
+          "title": "Galaxy A80",
+          "price": 386.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./images/product-9.jpeg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "10"
+        },
+        "fields": {
+          "title": "Galaxy A70",
+          "price": 378.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./images/product-10.jpeg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "11"
+        },
+        "fields": {
+          "title": "Galaxy A60",
+          "price": 289.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./images/product-11.jpeg"
+              }
+            }
+          }
+        }
+      },
+      {
+        "sys": {
+          "id": "12"
+        },
+        "fields": {
+          "title": "Galaxy A30",
+          "price": 248.99,
+          "image": {
+            "fields": {
+              "file": {
+                "url": "./images/product-12.jpeg"
+              }
+            }
+          }
+        }
+      }
+    ]
+  }
+  [
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfYXRmOjIwMTQxNDk5MjY3Njk4OjowOjo&url=%2FHP-Graphics-Response-Backlit-15-fb0777AX%2Fdp%2FB0BSG1S3GN%2Fref%3Dsr_1_1_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+    "s-image src":"https://m.media-amazon.com/images/I/818vGJO+jeL._AC_UY218_.jpg",
+    "name":"HP Victus Gaming Laptop AMD Ryzen 5 5600H 15.6 inch(39.6 cm) FHD IPS Gaming Laptop (8GB RAM/512GB SSD/AMD Radeon RX 6500M Graphics(4GB GDDR6)/144Hz/9ms Response time/Backlit KB/B&O/Alexa),15-fb0777AX",
+    "a-icon-alt":"4.3 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfYXRmOjIwMTQxNDk5MjY3Njk4OjowOjo&url=%2FHP-Graphics-Response-Backlit-15-fb0777AX%2Fdp%2FB0BSG1S3GN%2Fref%3Dsr_1_1_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-1-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+    "price":"?59,990",
+    "mrp":"?77,354"},}}
+    {"sys" : {"id" : "2"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfYXRmOjIwMDgyOTU5Mjg0NTk4OjowOjo&url=%2FAcer-12-Cores-Windows-Graphics-A515-57G%2Fdp%2FB0B45RSRQL%2Fref%3Dsr_1_2_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+    "s-image src":"https://m.media-amazon.com/images/I/61gGtqfZFlL._AC_UY218_.jpg",
+    "name":"Acer Aspire 5 Gaming Intel Core i5 12th gen (12-Cores) (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce RTX 2050) A515-57G/ Gaming Laptop (15.6 inch, Steel Gray 1.8 Kg",
+    "a-icon-alt":"4.0 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfYXRmOjIwMDgyOTU5Mjg0NTk4OjowOjo&url=%2FAcer-12-Cores-Windows-Graphics-A515-57G%2Fdp%2FB0B45RSRQL%2Fref%3Dsr_1_2_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-2-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9hdGY%26psc%3D1",
+    "price":"?59,999",
+    "mrp":"?78,999"},}}
+    {"sys" : {"id" : "3"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/ASUS-G531GT-BQ024T-Graphics-i5-9300H-One-Zone/dp/B08R8KF1CT/ref=sr_1_3?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-3",
+    "s-image src":"https://m.media-amazon.com/images/I/618vI85GzgL._AC_UY218_.jpg",
+    "name":"(Renewed) ASUS ROG Strix G G531GT-BQ024T 15.6\" FHD Gaming Laptop GTX 1650 4GB Graphics (Core i5-9300H 9th Gen/8GB RAM/1TB SSHD + 256GB NVMe SSD/Windows 10/One-Zone RGB KB/2.40 Kg), Black",
+    "a-icon-alt":"4.6 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/ASUS-G531GT-BQ024T-Graphics-i5-9300H-One-Zone/dp/B08R8KF1CT/ref=sr_1_3?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-3",
+    "price":"?49,990",
+    "mrp":"?72,951"},}}
+    {"sys" : {"id" : "4"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Renewed-HP-Pavilion-Processor-15-ec1025AX/dp/B0BGMV4BTV/ref=sr_1_4?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-4",
+    "s-image src":"https://m.media-amazon.com/images/I/71VlaIUD10L._AC_UY218_.jpg",
+    "name":"(Renewed) HP Pavilion 4th Gen AMD Ryzen 5 Processor 15.6 inches FHD Gaming Laptop (8GB/512GB SSD/144 Hz/Windows 10/NVIDIA GTX 1650Ti 4GB/Shadow Black, 1.98kg), 15-ec1025AX",
+    "a-icon-alt":"",
+    "a-size-base href":"https://www.amazon.in/Renewed-HP-Pavilion-Processor-15-ec1025AX/dp/B0BGMV4BTV/ref=sr_1_4?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-4",
+    "price":"?47,990",
+    "mrp":"?66,900"},}}
+    {"sys" : {"id" : "5"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Renewed-HP-Pavilion-5-4600H-15-ec1021AX/dp/B0BDV9VW6T/ref=sr_1_5?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-5",
+    "s-image src":"https://m.media-amazon.com/images/I/71VlaIUD10L._AC_UY218_.jpg",
+    "name":"(Renewed) HP Pavilion Gaming 15.6 inches FHD Gaming Laptop (AMD Ryzen 5-4600H/8GB/1TB HDD/Windows 10 Home/NVIDIA GTX 1650 4GB/Shadow Black), 15-ec1021AX, 1.98kg",
+    "a-icon-alt":"",
+    "a-size-base href":"https://www.amazon.in/Renewed-HP-Pavilion-5-4600H-15-ec1021AX/dp/B0BDV9VW6T/ref=sr_1_5?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-5",
+    "price":"?47,990",
+    "mrp":"?68,192"},}}
+    {"sys" : {"id" : "6"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Renewed-HP-Pavilion-15-6-inch-15-ec0101AX/dp/B08L6T929R/ref=sr_1_6?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-6",
+    "s-image src":"https://m.media-amazon.com/images/I/61XFb+0e2KL._AC_UY218_.jpg",
+    "name":"(Renewed) HP Pavilion Gaming 15.6-inch FHD Gaming Laptop (Ryzen 5-3550H/8GB/1TB HDD/Windows 10/NVIDIA GTX 1650 4GB/Shadow Black), 15-ec0101AX",
+    "a-icon-alt":"",
+    "a-size-base href":"https://www.amazon.in/Renewed-HP-Pavilion-15-6-inch-15-ec0101AX/dp/B08L6T929R/ref=sr_1_6?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-6",
+    "price":"?46,990",
+    "mrp":"?58,936"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Renewed-ASUS-Vivobook-Graphics-F571GT-BN913TS/dp/B0C2KWPWDC/ref=sr_1_7?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-7",
+    "s-image src":"https://m.media-amazon.com/images/I/41Y2mkDTRYS._AC_UY218_.jpg",
+    "name":"(Renewed) ASUS Vivobook Intel Core i5 9th Gen 15.6 inches Gaming Laptop (8 GB/512 GB SSD/Windows 10 Home/NVIDIA GeForce GTX 1650 4 GB Graphics, F571GT-BN913TS, Star Black, 2.14 Kg, With MS Office)",
+    "a-icon-alt":"",
+    "a-size-base href":"https://www.amazon.in/Renewed-ASUS-Vivobook-Graphics-F571GT-BN913TS/dp/B0C2KWPWDC/ref=sr_1_7?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-7",
+    "price":"?42,990",
+    "mrp":"?76,990"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Renewed-Asus-Vivobook-Gaming-Intel/dp/B0C2KRGGQY/ref=sr_1_8?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-8",
+    "s-image src":"https://m.media-amazon.com/images/I/41bDB+GKy6L._AC_UY218_.jpg",
+    "name":"(Renewed) Asus Vivobook Gaming Intel Core I5 9Th Gen - (8 Gb/1 Tb Hdd/256 Gb Ssd/Windows 10 Home/4 Gb Graphics/Nvidia Geforce Gtx 1650) F571Gt-Hn1062T Gaming Laptop (15.6 Inches, Star Black, 2.14 Kg)",
+    "a-icon-alt":"",
+    "a-size-base href":"https://www.amazon.in/Renewed-Asus-Vivobook-Gaming-Intel/dp/B0C2KRGGQY/ref=sr_1_8?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-8",
+    "price":"?44,990",
+    "mrp":"?77,990"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/HP-Pavilion-Processor-15-6-inch-15-dk0263TX/dp/B08GX9BSFB/ref=sr_1_9?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-9",
+    "s-image src":"https://m.media-amazon.com/images/I/81pezrPSgOL._AC_UY218_.jpg",
+    "name":"(Renewed) HP Pavilion Gaming Intel 9th Gen Core i5 15.6-Inch (39.62 cms) 1920 x 1080 (Full HD) Laptop (8 GB/1TB HDD/Windows 10 Home/MS Office /NVIDIA GeForce GTX 1650/Shadow Black/1.98 Kg)",
+    "a-icon-alt":"3.9 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/HP-Pavilion-Processor-15-6-inch-15-dk0263TX/dp/B08GX9BSFB/ref=sr_1_9?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-9",
+    "price":"?45,990",
+    "mrp":"?60,990"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/ASUS-Vivobook-Integrated-Graphics-M1603QA-MB502WS/dp/B09ZV5CDWD/ref=sr_1_10?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-10",
+    "s-image src":"https://m.media-amazon.com/images/I/715NX9VL1sL._AC_UY218_.jpg",
+    "name":"ASUS Vivobook 16X (2022), 16-inch (40.64 cms) WUXGA, AMD Ryzen 5 5600H, Thin and Light Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Quiet Blue/1.8 kg), M1603QA-MB502WS",
+    "a-icon-alt":"4.1 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/ASUS-Vivobook-Integrated-Graphics-M1603QA-MB502WS/dp/B09ZV5CDWD/ref=sr_1_10?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-10",
+    "price":"?49,990",
+    "mrp":"?68,990"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/MagicBook-14-inch-Anti-Glare-Windows-Fingerprint/dp/B0BTY46J16/ref=sr_1_11?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-11",
+    "s-image src":"https://m.media-amazon.com/images/I/71r+C54YEdL._AC_UY218_.jpg",
+    "name":"HONOR MagicBook 14, AMD Ryzen 5 5500U 14-inch (35.56 cm) FHD IPS Anti-Glare Thin and Light Laptop (16GB/512GB PCIe SSD/Windows 11/Fingerprint Login/Metal Body/Backlit KB/1.38Kg), Mystic Silver",
+    "a-icon-alt":"4.4 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/MagicBook-14-inch-Anti-Glare-Windows-Fingerprint/dp/B0BTY46J16/ref=sr_1_11?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-11",
+    "price":"?44,990",
+    "mrp":"?75,999"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Acer-Extensa-Pentium-Silver-N5030/dp/B0BKZGP8J3/ref=sr_1_12?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-12",
+    "s-image src":"https://m.media-amazon.com/images/I/51uwEtc8roL._AC_UY218_.jpg",
+    "name":"Acer Extensa Pentium Silver N5030 - (Intel, 8 GB/256 GB SSD/Windows 11 Home/MS Office /180� Degree Lay-Flat/Blue-Light Shield/Black/1.9 KG) EX215-31 with 15.6 Inch (39.6 cm) Full HD Laptop",
+    "a-icon-alt":"3.7 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/Acer-Extensa-Pentium-Silver-N5030/dp/B0BKZGP8J3/ref=sr_1_12?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-12",
+    "price":"?28,990",
+    "mrp":"?44,999"}
+    }},
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Renewed-Notebook-i5-10210U-Graphics-XMA1904-AR/dp/B08BZL5WVF/ref=sr_1_13?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-13",
+    "s-image src":"https://m.media-amazon.com/images/I/713he67k8HL._AC_UY218_.jpg",
+    "name":"(Renewed) Mi Notebook Horizon Edition 14 Intel Core i5-10210U 10th Gen Thin and Light Laptop(8GB/512GB SSD/Windows 10/Nvidia MX350 2GB Graphics/Grey/1.35Kg), XMA1904-AR",
+    "a-icon-alt":"3.8 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/Renewed-Notebook-i5-10210U-Graphics-XMA1904-AR/dp/B08BZL5WVF/ref=sr_1_13?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-13",
+    "price":"?42,391",
+    "mrp":"?59,999"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Lenovo-IdeaPad-39-62cm-Warranty-82VG009MIN/dp/B0BT7468FG/ref=sr_1_14?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-14",
+    "s-image src":"https://m.media-amazon.com/images/I/612J8iEEDaL._AC_UY218_.jpg",
+    "name":"Lenovo IdeaPad Slim 1 Ryzen 3 7320U 15.6\" (39.62cm) FHD Laptop (8GB/512GB SSD/Win 11/Office 2021/2 Year Warranty/Alexa Built-in/3 Month Game Pass/Cloud Grey/1.58Kg), 82VG009MIN",
+    "a-icon-alt":"4.5 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/Lenovo-IdeaPad-39-62cm-Warranty-82VG009MIN/dp/B0BT7468FG/ref=sr_1_14?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-14",
+    "price":"?40,990",
+    "mrp":"?59,390"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfbXRmOjIwMDgyOTU5MjgyODk4OjowOjo&url=%2FASUS-15-6-inch-i5-10300H-GeForce-GTX-FX506LHB-HN355WS%2Fdp%2FB09ZXM2B4N%2Fref%3Dsr_1_15_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-15-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "s-image src":"https://m.media-amazon.com/images/I/710NRdecQtL._AC_UY218_.jpg",
+    "name":"ASUS TUF Gaming F15, 15.6-inch (39.62 cms) FHD 144Hz, Intel Core i5-10300H 10th Gen, 4GB NVIDIA GeForce�GTX 1650, Gaming Laptop (8GB/512GB SSD/Windows 11/Office H&S/Black/2.3 Kg), FX506LHB-HN355WS",
+    "a-icon-alt":"4.3 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfbXRmOjIwMDgyOTU5MjgyODk4OjowOjo&url=%2FASUS-15-6-inch-i5-10300H-GeForce-GTX-FX506LHB-HN355WS%2Fdp%2FB09ZXM2B4N%2Fref%3Dsr_1_15_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-15-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "price":"?62,990",
+    "mrp":"?74,990"}
+    }},
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfbXRmOjIwMTA5ODQ0NDg2ODk4OjowOjo&url=%2FHP-Victus-Processor-Graphics-15-fa0070TX%2Fdp%2FB0B74ZY9R1%2Fref%3Dsr_1_16_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-16-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "s-image src":"https://m.media-amazon.com/images/I/81fHv7TiTiL._AC_UY218_.jpg",
+    "name":"HP Victus Gaming Latest 12th Gen Intel Core i5 12450H Processor 15.6 inch(39.6 cm) FHD Gaming Laptop (8GB RAM/512GB SSD/GTX 1650 4GB Graphics/144Hz/BL KB/Win 11/MSO/B&O/Alexa/Xbox Pass), 15-fa0070TX",
+    "a-icon-alt":"4.1 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfbXRmOjIwMTA5ODQ0NDg2ODk4OjowOjo&url=%2FHP-Victus-Processor-Graphics-15-fa0070TX%2Fdp%2FB0B74ZY9R1%2Fref%3Dsr_1_16_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-16-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9tdGY%26psc%3D1",
+    "price":"?64,990",
+    "mrp":"?83,039"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81WQ00MQIN/dp/B09YJ1Q16L/ref=sr_1_17?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-17",
+    "s-image src":"https://m.media-amazon.com/images/I/51ZcXcqT-0L._AC_UY218_.jpg",
+    "name":"Lenovo IdeaPad Slim 3 Intel Celeron N4020 4th Gen 15.6\" (39.62cm) HD Thin & Light Laptop (8GB/256GB SSD/Windows 11/Office 2021/2Yr Warranty/3months Game Pass/Platinum Grey/1.7Kg), 81WQ00MQIN",
+    "a-icon-alt":"3.8 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81WQ00MQIN/dp/B09YJ1Q16L/ref=sr_1_17?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-17",
+    "price":"?28,490",
+    "mrp":"?40,490"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Dell-Vostro-Laptop-i3-1215U-35-56Cms/dp/B0BQJ68HHC/ref=sr_1_18?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-18",
+    "s-image src":"https://m.media-amazon.com/images/I/51bqpP0jb5L._AC_UY218_.jpg",
+    "name":"Dell Vostro 3420 Laptop,12th Gen Intel Core i3-1215U, 8GB & 512GB SSD, 14.0\" (35.56Cms) FHD WVA AG 250 nits, Win11+MSO'21, 15 Month McAfee, Black, 1.48 KGs",
+    "a-icon-alt":"4.1 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/Dell-Vostro-Laptop-i3-1215U-35-56Cms/dp/B0BQJ68HHC/ref=sr_1_18?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-18",
+    "price":"?42,990",
+    "mrp":"?61,817"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/HP-39-6cm-Graphics-Speakers-15s-er1501AU/dp/B0BN1SMM83/ref=sr_1_19?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-19",
+    "s-image src":"https://m.media-amazon.com/images/I/816lVSH7q9L._AC_UY218_.jpg",
+    "name":"HP 15s, AMD Ryzen 3 3250U, 15.6 inch(39.6cm) HD Laptop(8GB RAM/256 GB SSD/AMD Radeon Graphics/Win 11/MSO/Dual Speakers) 15s-er1501AU",
+    "a-icon-alt":"3.2 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/HP-39-6cm-Graphics-Speakers-15s-er1501AU/dp/B0BN1SMM83/ref=sr_1_19?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-19",
+    "price":"?29,990",
+    "mrp":"?43,628"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81X800LGIN/dp/B0B2RBP83P/ref=sr_1_20?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-20",
+    "s-image src":"https://m.media-amazon.com/images/I/51ZcXcqT-0L._AC_UY218_.jpg",
+    "name":"Lenovo IdeaPad 3 11th Gen Intel Core i3 15.6\" FHD Thin & Light Laptop(8GB/512GB SSD/Windows 11/Office 2021/2Yr Warranty/3months Xbox Game Pass/Platinum Grey/1.7Kg), 81X800N2IN",
+    "a-icon-alt":"4.1 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/Lenovo-IdeaPad-Warranty-Platinum-81X800LGIN/dp/B0B2RBP83P/ref=sr_1_20?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-20",
+    "price":"?37,076",
+    "mrp":"?59,890"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/HP-Anti-Glare-Graphics-15s-eq2212AU/dp/B0BQN2HV46/ref=sr_1_21?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-21",
+    "s-image src":"https://m.media-amazon.com/images/I/81HFG+HE8BL._AC_UY218_.jpg",
+    "name":"HP 15s, AMD Ryzen 3 5300U, 15.6 inch(39.6cm) FHD Anti-Glare Laptop(8GB SDRAM/512GB SSD/AMD Radeon Graphics/Win 11/MSO/Dual Speakers) 15s- eq2212AU",
+    "a-icon-alt":"3.9 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/HP-Anti-Glare-Graphics-15s-eq2212AU/dp/B0BQN2HV46/ref=sr_1_21?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-21",
+    "price":"?36,990",
+    "mrp":"?48,419"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/ASUS-VivoBook-Intel%C2%AECoreTM-i3-1215U-X1502ZA-EJ322WS/dp/B0BTVMBLZC/ref=sr_1_22?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-22",
+    "s-image src":"https://m.media-amazon.com/images/I/71TQJY7gadL._AC_UY218_.jpg",
+    "name":"ASUS VivoBook 15 (2022), Intel�Core� i3-1215U 12th Gen, 15.6\" (39.62 cm) FHD, Thin and Light Laptop (8GB/512 SSD//Windows 11/Office 2021//Backlit KB/Icelight Silver/1.7 kg), X1502ZA-EJ322WS",
+    "a-icon-alt":"4.0 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/ASUS-VivoBook-Intel%C2%AECoreTM-i3-1215U-X1502ZA-EJ322WS/dp/B0BTVMBLZC/ref=sr_1_22?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-22",
+    "price":"?42,990",
+    "mrp":"?56,990"}
+    }},
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/ASUS-VivoBook-F571GD-BQ368T-Graphics-i5-9300H/dp/B0C2KVXB7C/ref=sr_1_23?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-23",
+    "s-image src":"https://m.media-amazon.com/images/I/416usJOJaNL._AC_UY218_.jpg",
+    "name":"(Renewed) ASUS VivoBook Gaming F571GD-BQ368T 15.6\" FHD Thin and Light Laptop GTX 1050 4GB Graphics (Core i5-9300H 9th Gen/8GB RAM/512GB NVMe SSD + 32GB Optane Memory/Windows 10/2.14 Kg), Star Black",
+    "a-icon-alt":"",
+    "a-size-base href":"https://www.amazon.in/ASUS-VivoBook-F571GD-BQ368T-Graphics-i5-9300H/dp/B0C2KVXB7C/ref=sr_1_23?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-23",
+    "price":"?42,990",
+    "mrp":"?79,990"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/ASUS-Vivobook-i3-1220P-Integrated-X1502ZA-EJ381WS/dp/B0BLP23H71/ref=sr_1_24?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-24",
+    "s-image src":"https://m.media-amazon.com/images/I/61W7nT5cCvL._AC_UY218_.jpg",
+    "name":"ASUS Vivobook 15, Intel Core i3-1220P 12th Gen, 15.6\" (39.62 cm) FHD, Thin and Laptop (8GB/512GB SSD/Integrated Graphics/Windows 11/Office 2021/Alexa Built-in/FP Sensor/Blue/1.7 kg), X1502ZA-EJ381WS",
+    "a-icon-alt":"4.5 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/ASUS-Vivobook-i3-1220P-Integrated-X1502ZA-EJ381WS/dp/B0BLP23H71/ref=sr_1_24?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-24",
+    "price":"?42,990",
+    "mrp":"?60,990"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Lenovo-ThinkBook-39-62cm-Antiglare-21A4A09UIH/dp/B0B1DK542Q/ref=sr_1_25?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-25",
+    "s-image src":"https://m.media-amazon.com/images/I/61Dh8r-jRHL._AC_UY218_.jpg",
+    "name":"Lenovo ThinkBook 15 AMD Ryzen 5 5500U 15.6\" (39.62cm) FHD 220 nits Antiglare Thin and Light Laptop (8GB/512GB SSD/Windows 11/MS Office/Mineral Grey/1.7 Kg), 21A4A09UIH",
+    "a-icon-alt":"3.9 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/Lenovo-ThinkBook-39-62cm-Antiglare-21A4A09UIH/dp/B0B1DK542Q/ref=sr_1_25?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-25",
+    "price":"?48,990",
+    "mrp":"?92,700"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/Lenovo-IdeaPad-39-62cm-Warranty-82RK006DIN/dp/B0B4JPC8GT/ref=sr_1_26?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-26",
+    "s-image src":"https://m.media-amazon.com/images/I/51hvKhMF+sL._AC_UY218_.jpg",
+    "name":"Lenovo IdeaPad Slim 3 Intel Core i3 12th Gen 15.6\" (39.62cm) FHD Thin & Light Laptop (8GB/512GB SSD/Windows 11/Office 2021/2Yr Warranty/3months Game Pass/Arctic Grey/1.63Kg), 82RK006DIN",
+    "a-icon-alt":"4.1 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/Lenovo-IdeaPad-39-62cm-Warranty-82RK006DIN/dp/B0B4JPC8GT/ref=sr_1_26?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-26",
+    "price":"?43,990",
+    "mrp":"?66,390"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/ASUS-VivoBook-Integrated-Graphics-X415KA-BV121WS/dp/B09RQL2S5F/ref=sr_1_27?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-27",
+    "s-image src":"https://m.media-amazon.com/images/I/71WuDXpTAlL._AC_UY218_.jpg",
+    "name":"ASUS VivoBook 14 (2021), 14-inch (35.56 cm) HD, Intel Pentium Silver N6000 Quad Core, Thin and Light Laptop (8GB/256GB SSD/Office 2021/Windows 11/Integrated Graphics/Silver/1.5 kg), X415KA-BV121WS",
+    "a-icon-alt":"3.9 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/ASUS-VivoBook-Integrated-Graphics-X415KA-BV121WS/dp/B09RQL2S5F/ref=sr_1_27?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-27",
+    "price":"?28,990",
+    "mrp":"?38,990"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/gp/bestsellers/computers/22963796031/ref=sr_bs_27_22963796031_1",
+    "s-image src":"https://m.media-amazon.com/images/I/51ZcXcqT-0L._AC_UY218_.jpg",
+    "name":"Lenovo IdeaPad Slim 3 Intel Core i3-1115G4 11th Gen 15.6\" (39.62cm) FHD Laptop (8GB/256GB SSD/Win 11/Office 2021/2 Year Warranty/3 Month Game Pass/Platinum Grey/1.7Kg), 81X800LCIN",
+    "a-icon-alt":"4.0 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/Lenovo-i3-1115G4-Warranty-Platinum-81X800LCIN/dp/B0B9YHX39M/ref=sr_1_28?crid=1UOWFS1UQ70PI&keywords=gaming+laptop+under+50000&qid=1682821104&rnid=49894961031&s=computers&sprefix=gaming+laptop+%2Caps%2C281&sr=1-28",
+    "price":"?33,831",
+    "mrp":"?60,890"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfYnRmOjIwMTA5NjgzMTI3Mzk4OjowOjo&url=%2FXiaomi-Notebook-i5-12450H-Resolution-Thunderbolt%2Fdp%2FB0BD7XCM5P%2Fref%3Dsr_1_29_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-29-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "s-image src":"https://m.media-amazon.com/images/I/71P73BaF1pL._AC_UY218_.jpg",
+    "name":"Xiaomi Notebook Pro 120G 12th Gen Intel i5-12450H (16GB/512GB SSD/Nvidia MX550/2.5K + 120Hz Display/Win 11/Thunderbolt 4/MSO 21/FP Sensor/1.5Kg",
+    "a-icon-alt":"3.9 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfYnRmOjIwMTA5NjgzMTI3Mzk4OjowOjo&url=%2FXiaomi-Notebook-i5-12450H-Resolution-Thunderbolt%2Fdp%2FB0BD7XCM5P%2Fref%3Dsr_1_29_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-29-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "price":"?72,427",
+    "mrp":"?86,999"},}}
+    {"sys" : {"id" : "1"},
+    "fields":{
+      {"Amazonlink":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfYnRmOjIwMTUxNTU1NTE5NDk4OjowOjo&url=%2FHP-i3-1215U-15-6-inch-Graphics-Speakers%2Fdp%2FB0BP2M7CCS%2Fref%3Dsr_1_30_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-30-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "s-image src":"https://m.media-amazon.com/images/I/71SWU+pL+LL._AC_UY218_.jpg",
+    "name":"HP Laptop 15s, 12th Gen Intel Core i3-1215U, 15.6-inch (39.6 cm), FHD, 8GB DDR4, 512GB SSD, Thin & Light, Intel UHD Graphics, Backlit KB, Dual Speakers (Win 11, MSO 2021, Silver, 1.69 kg), fq5007TU",
+    "a-icon-alt":"4.1 out of 5 stars",
+    "a-size-base href":"https://www.amazon.in/sspa/click?ie=UTF8&spc=MToyMTM1ODI4ODI2NTY1NzIxOjE2ODI4MjExMDQ6c3BfYnRmOjIwMTUxNTU1NTE5NDk4OjowOjo&url=%2FHP-i3-1215U-15-6-inch-Graphics-Speakers%2Fdp%2FB0BP2M7CCS%2Fref%3Dsr_1_30_sspa%3Fcrid%3D1UOWFS1UQ70PI%26keywords%3Dgaming%2Blaptop%2Bunder%2B50000%26qid%3D1682821104%26rnid%3D49894961031%26s%3Dcomputers%26sprefix%3Dgaming%2Blaptop%2B%252Caps%252C281%26sr%3D1-30-spons%26sp_csd%3Dd2lkZ2V0TmFtZT1zcF9idGY%26psc%3D1",
+    "price":"?43,990",
+    "mrp":"?56,261"}
+    }}]
